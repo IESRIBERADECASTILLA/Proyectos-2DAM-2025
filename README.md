@@ -60,14 +60,14 @@ c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de
 
 Se puede hacer una propuesta de proyecto, utilizando este [modelo](1Proyecto-Propuesta_25.doc)
 
-- Fecha límite de entrega de la popuesta: ****
+- Fecha límite de entrega de la popuesta: **17 de marzo de 2025**
 
 ---
 ### Anteproyecto
 
 Realizar el anteproyecto, utilizando este [modelo](2Proyecto-EsquemaAnteproyecto_25.docx)
 
-- Fecha límite de entrega del anteproyecto: ****
+- Fecha límite de entrega del anteproyecto: **21 de marzo de 2025**
 
 ---
 
