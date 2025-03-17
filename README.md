@@ -99,7 +99,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Alejandro - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
 - Carla - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - Estela - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto](https://github.com/estelaV9/TFG_CubeX)
-- Hugo - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
+- Hugo - **Tutora: Rodrigo** - [Repositorio general] [Repositorio proyecto]
 - Isaac - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
 - Jaime - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - José Luis - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
