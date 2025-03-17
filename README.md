@@ -92,10 +92,10 @@ Horario y orden de defensa de proyectos
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
-- Adrián - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
+- Adrián - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto]
 - Erik - **Tutor: Cristina** - [Repositorio general] [Repositorio proyecto]
 - Ángel - **Tutor: Roberto** - [Repositorio general] [Repositorio proyecto]
-- Álvaro - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto]
+- Álvaro - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - Alejandro - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
 - Carla - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - Estela - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto](https://github.com/estelaV9/TFG_CubeX)
