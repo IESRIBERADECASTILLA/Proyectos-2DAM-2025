@@ -75,7 +75,7 @@ Realizar el anteproyecto, utilizando este [modelo](2Proyecto-EsquemaAnteproyecto
 
 Entrega del código y memoria del proyecto
 
-- Fecha límite de entrega del proyecto: ****
+- Fecha límite de entrega del proyecto: **21 de mayo de 2025**
 ---
 
 ### Defensa de proyectos
@@ -93,13 +93,13 @@ Horario y orden de defensa de proyectos
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
 - Adrián - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto]
-- Erik - **Tutor: Cristina** - [Repositorio general] [Repositorio proyecto]
+- Erik - **Tutor: Cristina** - [Repositorio general] [Repositorio proyecto](https://github.com/ErikAT04/TFG_Antivirus_ErikAT)
 - Ángel - **Tutor: Roberto** - [Repositorio general] [Repositorio proyecto]
 - Álvaro - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - Alejandro - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
 - Carla - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - Estela - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto](https://github.com/estelaV9/TFG_CubeX)
-- Hugo - **Tutora: Rodrigo** - [Repositorio general] [Repositorio proyecto]
+- Hugo - **Tutora: Rodrigo** - [Repositorio general] [Repositorio proyecto](https://github.com/HugoReyHol/clon-flappy-bird)
 - Isaac - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
 - Jaime - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]
 - José Luis - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
@@ -115,13 +115,13 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Además de todo lo anterior, el día de la defensa hay que entregar todo en una memoria USB (memoria, manual, código fuente de la aplicación, archivo creado para la presentación...)
 
 ## Defensa oral
-- Leer el apartado correspondiente de la rúbrica (Teams--> FCT --> PROYECTO_FCT)
+- Leer el apartado correspondiente de la rúbrica (Teams)
 
 ## Calendario
 
 ### 🗓️ Fechas a tener en cuenta
 
-- Propuesta de proyecto: ****
-- Anteproyecto: ****
-- Entrega de proyectos: ****
-- Defensa de proyectos: ****
+- Propuesta de proyecto: **17 de marzo de 2025**
+- Anteproyecto: **21 de marzo de 2025**
+- Entrega de proyectos: **21 de mayo de 2025**
+- Defensa de proyectos: **22 y 23 de mayo de 2025**
