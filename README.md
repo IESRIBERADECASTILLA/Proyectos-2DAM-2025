@@ -104,7 +104,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Jaime - **Tutor: Juan** -  [Parte back](https://github.com/KonoDIODa13/TFGLibraryOfOharaBack) [Parte front](https://github.com/KonoDIODa13/TFGLibraryOfOharaFront)
 - José Luis - **Tutora: Cristina** -  [Repositorio proyecto](https://github.com/joseluismayo/TFG_JoseLuisMayo/tree/main)
 - Diego - **Tutor: Roberto** -  [Repositorio proyecto](https://github.com/diegoVega04/tfg_HandballStats)
-- Leire - **Tutor: Rodrigo** -  [Repositorio proyecto]
+- Leire - **Tutor: Rodrigo** -  [Repositorio proyecto](https://github.com/leire-yagfer/TFG_MoneyTracker_LeireYF)
 
 
 ## Normas entrega memoria y proyecto
