@@ -92,7 +92,7 @@ Horario y orden de defensa de proyectos
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
-- Adrián - **Tutor: Rodrigo** -  [app](https://github.com/adree3/RiberRepublicFichajeApp) [API](https://github.com/adree3/RiberRepublicFichajeApi)
+- Adrián - **Tutor: Rodrigo** -  [Repositorio proyecto](https://github.com/adree3/RiberPublicFichajeApp)
 - Erik - **Tutor: Cristina** -  [Repositorio proyecto](https://github.com/ErikAT04/TFG_Antivirus_ErikAT)
 - Ángel - **Tutor: Roberto** -  [Repositorio proyecto]
 - Álvaro - **Tutor: Juan** -  [Repositorio proyecto]
