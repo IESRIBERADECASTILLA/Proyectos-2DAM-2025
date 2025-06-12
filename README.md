@@ -95,7 +95,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Adrián - **Tutor: Rodrigo** -  [Repositorio proyecto](https://github.com/adree3/RiberPublicFichajeApp)
 - Erik - **Tutor: Cristina** -  [Repositorio proyecto](https://github.com/ErikAT04/TFG_Antivirus_ErikAT)
 - Ángel - **Tutor: Roberto** -  [Repositorio proyecto]
-- Álvaro - **Tutor: Juan** -  [Repositorio proyecto]
+- Álvaro - **Tutor: Juan** -  [Repositorio proyecto](https://github.com/alvarocille/ludokeeper)
 - Alejandro - **Tutora: Cristina** -  [Repositorio proyecto](https://github.com/Alejan5drox-08M/TFG_AdGM)
 - Carla - **Tutor: Juan** -  [Repositorio proyecto](https://github.com/carlafb-horse/APP_CARRETILLERO)
 - Estela - **Tutor: Rodrigo** -  [Repositorio proyecto](https://github.com/estelaV9/TFG_CubeX)
