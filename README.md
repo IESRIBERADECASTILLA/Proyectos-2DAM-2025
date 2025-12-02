@@ -16,7 +16,7 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
   - [Relación de Proyectos](#relación-de-proyectos)
   - [Normas entrega memoria y proyecto](#normas-entrega-memoria-y-proyecto)
   - [Defensa oral](#defensa-oral)
-  - [Calendario](#calendario)
+  - [Calendario - CONVOCATORIA DICIEMBRE](#calendario)
     - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
 
 
@@ -60,14 +60,14 @@ c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de
 
 Se puede hacer una propuesta de proyecto, utilizando este [modelo](1Proyecto-Propuesta_25.doc)
 
-- Fecha límite de entrega de la popuesta: **17 de marzo de 2025**
+- Fecha límite de entrega de la popuesta: ~~**17 de marzo de 2025**~~
 
 ---
 ### Anteproyecto
 
 Realizar el anteproyecto, utilizando este [modelo](2Proyecto-EsquemaAnteproyecto_25.docx)
 
-- Fecha límite de entrega del anteproyecto: **21 de marzo de 2025**
+- Fecha límite de entrega del anteproyecto: ~~**21 de marzo de 2025**~~
 
 ---
 
@@ -75,7 +75,7 @@ Realizar el anteproyecto, utilizando este [modelo](2Proyecto-EsquemaAnteproyecto
 
 Entrega del código y memoria del proyecto
 
-- Fecha límite de entrega del proyecto: **21 de mayo de 2025**
+- Fecha límite de entrega del proyecto: ~~**21 de mayo de 2025**~~
 ---
 
 ### Defensa de proyectos
@@ -121,7 +121,9 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 ### 🗓️ Fechas a tener en cuenta
 
-- Propuesta de proyecto: **17 de marzo de 2025**
-- Anteproyecto: **21 de marzo de 2025**
-- Entrega de proyectos: **21 de mayo de 2025**
-- Defensa de proyectos: **22 y 23 de mayo de 2025**
+- Propuesta de proyecto: ~~**17 de marzo de 2025**~~
+- Anteproyecto: ~~**21 de marzo de 2025**~~
+- Entrega de proyectos: ~~**21 de mayo de 2025**~~
+- Defensa de proyectos: ~~**22 y 23 de mayo de 2025**~~
+- Entrega de proyectos DICIEMBRE: **11 de diciembre de 2025 a las 22:00**
+- Defensa de proyectos DICIEMBRE: **12 de diciembre de 2025 a las 10:00**
