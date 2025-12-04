@@ -1,6 +1,6 @@
 # Proyectos-2DAM-2025
 
-En este repositorio vamos a poner toda la información sobre los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Ribera de Castilla** para el curso 24/25 
+En este repositorio vamos a poner toda la información sobre los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Ribera de Castilla** para el curso 24/25 y la convocatoria de **diciembre de 2025** 
 
 ## Indice
 
@@ -16,8 +16,9 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
   - [Relación de Proyectos](#relación-de-proyectos)
   - [Normas entrega memoria y proyecto](#normas-entrega-memoria-y-proyecto)
   - [Defensa oral](#defensa-oral)
-  - [Calendario - CONVOCATORIA DICIEMBRE](#calendario)
+  - [Calendario](#calendario)
     - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
+    - [🗓️ Convocatoria diciembre 2025](#️-fechas-a-tener-en-cuenta)
 
 
   
@@ -106,6 +107,10 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Diego - **Tutor: Roberto** -  [Repositorio proyecto](https://github.com/diegoVega04/tfg_HandballStats)
 - Leire - **Tutor: Rodrigo** -  [Repositorio proyecto](https://github.com/leire-yagfer/TFG_MoneyTracker_LeireYF)
 
+**Proyectos diciembre 2025**
+- Daniel - **Tutor: Rodrigo** -  [Repositorio proyecto](https://github.com/DanielPiana/Proyecto_Compras)
+- Saúl - **Tutora: Cristina** -  [Repositorio proyecto](https://github.com/saulmantecon/MiPadel)
+
 
 ## Normas entrega memoria y proyecto
 - Para la memoria del proyecto, hay que ajustarse al modelo de plantilla que se puede descargar de este repositorio: portada, índice estructurado, buena redacción, sin faltas de ortografía
@@ -125,5 +130,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Anteproyecto: ~~**21 de marzo de 2025**~~
 - Entrega de proyectos: ~~**21 de mayo de 2025**~~
 - Defensa de proyectos: ~~**22 y 23 de mayo de 2025**~~
+
+### 🗓️ Convocatoria diciembre 2025
 - Entrega de proyectos DICIEMBRE: **11 de diciembre de 2025 a las 22:00**
 - Defensa de proyectos DICIEMBRE: **12 de diciembre de 2025 a las 10:00**
